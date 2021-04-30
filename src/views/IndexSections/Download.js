@@ -30,12 +30,12 @@ class Download extends React.Component {
             <Row className="row-grid justify-content-center">
               <Col className="text-center" lg="8">
                 <h2 className="display-3">
-                  Do you love this awesome{" "}
+                  Some Project That I Made {" "}
                   <span className="text-success">
-                    Design System for Bootstrap 4?
+                    Hope you like it
                   </span>
                 </h2>
-                <p className="lead">
+                {/* <p className="lead">
                   Cause if you do, it can be yours for FREE. Hit the button
                   below to navigate to Creative Tim where you can find the
                   Design System in React. Start a new project or give an old
@@ -154,7 +154,7 @@ class Download extends React.Component {
                       </UncontrolledTooltip>
                     </Col>
                   </Row>
-                </div>
+                </div> */}
               </Col>
             </Row>
           </Container>
